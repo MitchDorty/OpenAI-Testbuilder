@@ -1,6 +1,6 @@
 import openai
 import random
-openai.api_key = "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"
+openai.api_key = "API-KEY"
 
 course_name = input("Enter the name of your course: ")
 school_year = input("Enter the school year of the course: ")
